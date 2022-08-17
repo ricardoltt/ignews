@@ -1,4 +1,4 @@
-<img alt="ignite" src="https://github.com/ricardoltt/ignews/blob/main/.github/image-back.png" />
+<img alt="ignite" src="https://github.com/ricardoltt/ignews/blob/main/.github/background.png" />
 
 ## :dart: Sobre
 
