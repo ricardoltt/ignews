@@ -76,14 +76,5 @@ export default NextAuth({
                 return false
             }
         },
-        // async redirect({ url, baseUrl }) {
-        //     return baseUrl
-        // },
-        // async session({ session, user, token }) {
-        //     return session
-        // },
-        // async jwt({ token, user, account, profile, isNewUser }) {
-        //     return token
-        // }
     }
 })
